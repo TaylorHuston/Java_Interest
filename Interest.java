@@ -1,7 +1,7 @@
 /*
  * Simple program to calculate compund interest. 
  * Demonstrates a for loop.
- * From "Java How To Program, 10, Early Objects" - Chapter 5
+ * From "Java How To Program, 10, Early Objects" - Chapter 5.
  */
 
 public class Interest {
