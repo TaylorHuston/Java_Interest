@@ -1,7 +1,7 @@
 /*
  * Simple program to calculate compund interest. 
- * Demonstrates a for loop.
- * From "Java How To Program, 10, Early Objects" - Chapter 5.
+ * Demonstrates a For Loop.
+ * Based on "Java How To Program, 10, Early Objects" - Chapter 5.
  */
 
 public class Interest {
@@ -18,6 +18,6 @@ public class Interest {
             amount = principal * Math.pow(1.0 + rate, year);
             System.out.printf("%4d%,20.2f%n", year, amount);
         }
-    }//End main
+    } //End main
     
-}//End class Interest
+} //End class Interest
